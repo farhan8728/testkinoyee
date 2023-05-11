@@ -377,6 +377,9 @@ a{
     .benefits{
         margin-top: 0;
     }
+    .card_img{
+        height: 44vh !important;
+    }
 }
 
 
@@ -455,7 +458,7 @@ a{
     
 
     .card_img{
-        height: 36vh !important;
+        height: 32vh !important;
     }
 }
 
