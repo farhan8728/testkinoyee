@@ -452,7 +452,11 @@ a{
     .about_us_header{
         margin-top: 10px;
     }
-   
+    
+
+    .card_img{
+        height: 36vh !important;
+    }
 }
 
 
